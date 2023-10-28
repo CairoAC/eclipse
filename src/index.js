@@ -26,3 +26,5 @@ const Eclipse = {
     container.appendChild(dom);
   },
 };
+
+export default Eclipse
